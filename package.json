@@ -1,0 +1,26 @@
+{
+  "name": "my-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmkkiii/my-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmkkiii/my-blog/issues"
+  },
+  "homepage": "https://github.com/kmkkiii/my-blog#readme",
+  "dependencies": {
+    "astro": "^1.9.1"
+  }
+}
